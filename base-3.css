@@ -15,7 +15,7 @@ h1 {
     letter-spacing: -1px;
     margin-top: 20px;
     margin-bottom: 32px;
-    font-size: calc(42px + (64 - 42) * ((100vw - 320px)/(1600 - 320)));
+    font-size: calc(42px + (100 - 42) * ((100vw - 320px)/(1600 - 320)));
  }
  
  h2 {
