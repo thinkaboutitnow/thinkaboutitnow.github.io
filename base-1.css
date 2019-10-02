@@ -40,3 +40,10 @@ p {
     line-height: 1.6;
     margin-bottom: 12px;
  }
+
+ /* ==== PAGE WIDTH ==== */
+
+body {
+    padding-left: 20%;
+    padding-right: 20%
+ }
