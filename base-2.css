@@ -2,7 +2,8 @@
 * { padding: 0; margin: 0; border: 0; font-weight: normal; font-size: 16px }
 
 body, html { height: 100% }
-body { background-color: #E4F5E8 }
+body { background-color:  #95a5a6}
+body { border-color: #c0392b}
 
 /* ==== PAGE WIDTH  ==== */
 
@@ -35,6 +36,7 @@ h1 {
     font-weight: bold;
     font-size: 40px;
     letter-spacing: -1px;
+    color: #c0392b
 }
 
 
@@ -44,6 +46,7 @@ h1 {
        line-height: 1.3;
        margin-top: 12%;
        margin-bottom: 6%;
+       
    }
 }
 
@@ -53,6 +56,7 @@ h1 {
        line-height: 1.3;
        margin-top: 12%;
        margin-bottom: 10%;
+      
    }
 }
 
@@ -61,6 +65,7 @@ h2 {
    font-family: serif;
    font-weight: bold;
    font-size: 32px;
+   color: #2c3e50
 }
 
 
